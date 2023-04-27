@@ -1,0 +1,14 @@
+header {
+    color:black;
+    border-style: solid;
+    margin-top: 13px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    padding-left: 30px;
+    border-top-left-radius: 30px;
+}
+
+header ul {
+    border-style: solid;
+}
