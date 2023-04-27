@@ -1,15 +1,42 @@
 header {
     color:black;
     border-style: solid;
-    margin-top: 13px;
+    border-width: 10px 10px 10px 10px;
+    height: 190px;
+    display:inline-block;
+    background-color: white;
+    margin-top: 5px;
     margin-left: 5px;
     margin-bottom: 5px;
     margin-right: 5px;
     padding-left: 30px;
+    padding-right: 30px;
     border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+
 }
 
 header ul {
     border-style: solid;
-    
+    list-style: none;
+    display: inline-flex;
+    position: relative;
+        left: 900px;
+        bottom: 159px;
+    font-size:8ch;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-width: 3px 3px 3px 3px; 
+    background-color: rgb(255, 255, 255);  
+    font-family:'Lucida Sans';  
+}
+
+header ul a {
+    padding: 15px;
+}
+header h1 {
+    color:rgb(0, 0, 0);
+    font-family:'Lucida Sans';
+    font-size:10ch;
+    text-align:center;
 }
