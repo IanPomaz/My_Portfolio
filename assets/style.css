@@ -22,6 +22,13 @@ header {
 
 }
 
+section .ph {
+    position: relative;
+        left: 5px;
+        bottom: 60px;
+
+}
+
 header ul {
     border-style: solid;
     list-style: none;
@@ -52,6 +59,18 @@ section {
     font-family:'Lucida sans';
     font-size:2ch;
     position:relative;
-        bottom: 70px;
+        bottom: 0px;
+        left: 29;
 
+}
+section .ph2 img{
+    width: 20%;
+    position:relative;
+        bottom: 540px;
+        left: 46px;
+
+}
+
+section.a .a h2 {
+    top: 1500px;
 }
