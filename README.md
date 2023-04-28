@@ -7,12 +7,5 @@ This webpage was created in order to have easy access to my portfolio. The conte
 
 ## Usage
 
-To be directed to each of the sections of the this webpage press on the corresponding name in the navigation bar. You can press on the images in the "work" section to be forwarded to that 
+To be directed to each of the sections of the this webpage press on the corresponding name in the navigation bar. You can press on the images in the "work" section to be forwarded to that section.
 
-## Credits
-
-N/A
-
-## License
-
-Please refer to the LICENSE in the repo.
