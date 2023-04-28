@@ -1,5 +1,7 @@
 
 body {
+    display: flex;
+    flex-wrap: wrap;
     background-color: rgb(213, 243, 254);
 }
 
@@ -71,6 +73,7 @@ section .ph2 img{
 
 }
 
-section.a .a h2 {
-    top: 1500px;
+section .a{
+    top: 40px;
+    left:300px;
 }
